@@ -21,7 +21,7 @@ class Ball{
     
     push();
     ellipseMode(RADIUS)
-    fill("blue")
+    fill("brown")
     ellipse(this.body.position.x,this.body.position.y,this.radius);
     pop();
     
