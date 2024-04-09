@@ -1,1 +1,2 @@
-# CrumpledBall-1
+# throw-the-crumpled-squirrel
+# supreme-method-of-stress-relief
